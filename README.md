@@ -139,4 +139,12 @@ To maximize the project's technical score, the following robust engineering prac
 =======
 # ai-research-assistant
 RAG-based AI research assistant for medical and scholarly queries with multilingual and sentiment-aware support.
->>>>>>> 3a08dc80558cfea83b602d097229e604a4df43be
+## 🧪 Sample Queries
+
+You can test the system using the following example queries:
+
+- What is Type 2 Diabetes?
+- Symptoms of hypertension
+- Explain diabetes in Telugu
+- Latest research on large language models
+- I am anxious about my symptoms
