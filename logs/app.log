@@ -1,0 +1,6 @@
+2026-02-22 14:40:10,929 - ai_assistant - INFO - Initialized shared FastEmbedEmbeddings (BAAI/bge-small-en-v1.5)
+2026-02-22 14:42:11,156 - ai_assistant - INFO - Initialized shared FastEmbedEmbeddings (BAAI/bge-small-en-v1.5)
+2026-02-22 14:43:03,882 - ai_assistant - INFO - Initialized shared FastEmbedEmbeddings (BAAI/bge-small-en-v1.5)
+2026-02-22 14:43:55,868 - ai_assistant - INFO - Initialized shared FastEmbedEmbeddings (BAAI/bge-small-en-v1.5)
+2026-02-22 15:05:27,880 - ai_assistant - INFO - Initialized shared FastEmbedEmbeddings (BAAI/bge-small-en-v1.5)
+2026-02-22 15:06:21,082 - ai_assistant - INFO - Initialized shared FastEmbedEmbeddings (BAAI/bge-small-en-v1.5)

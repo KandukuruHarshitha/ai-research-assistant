@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Database / Vector Stores
+chroma_db/
+medical_chroma_db/
+arxiv_chroma_db/
+*.json
+!requirements.txt
+!evaluation_results.json
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
