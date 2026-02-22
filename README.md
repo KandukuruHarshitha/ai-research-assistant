@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Research Assistant: A Unified Multi-Agentic Framework for Healthcare and Scholarly Analysis
 ### Elevence Skills Software Engineering Internship — Final Project Documentation
 
@@ -135,3 +136,7 @@ To maximize the project's technical score, the following robust engineering prac
 
 ---
 *Submitted as Final Documentation for the Elevence Skills Software Engineering Internship.*
+=======
+# ai-research-assistant
+RAG-based AI research assistant for medical and scholarly queries with multilingual and sentiment-aware support.
+>>>>>>> 3a08dc80558cfea83b602d097229e604a4df43be
